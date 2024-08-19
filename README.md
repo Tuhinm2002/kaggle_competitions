@@ -37,12 +37,12 @@ Each competition's progress is documented in a series of notebooks, including:
 > 1. Clone the pyflink-poc repository:
 >
 > ```console
-> $ git clone https://github.com/Tuhinm2002/LLM_bigram_model.git
+> $ git clone https://github.com/Tuhinm2002/kaggle_competitions.git
 > ```
 >
 > 2. Change to the project directory:
 > ```console
-> $ cd LLM_bigram_model
+> $ cd kaggle_competitions
 > ```
 >
 > 3. Install the dependencies:
