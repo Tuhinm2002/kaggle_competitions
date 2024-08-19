@@ -24,6 +24,32 @@ Each competition's progress is documented in a series of notebooks, including:
 - **Validation:** Cross-validation techniques to ensure model robustness.
 - **Final Submission:** Best-performing models saved and used for final predictions.
 
+## 🚀 Getting Started
+
+**System Requirements:**
+
+* **Python**: `version x.y.z`
+
+### ⚙️ Installation
+
+<h4>From <code>source</code></h4>
+
+> 1. Clone the pyflink-poc repository:
+>
+> ```console
+> $ git clone https://github.com/Tuhinm2002/LLM_bigram_model.git
+> ```
+>
+> 2. Change to the project directory:
+> ```console
+> $ cd LLM_bigram_model
+> ```
+>
+> 3. Install the dependencies:
+> ```console
+> $ pip install -r requirements.txt
+> ```
+
 ## 👥 Contributing
 
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
